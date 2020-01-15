@@ -1,0 +1,23 @@
+{
+  "name": "lerna-ing-package-b",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "Alberto Fernandez Reyes <albertofernandezreyes@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/package-b.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {}
+}

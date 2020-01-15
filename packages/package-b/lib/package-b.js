@@ -3,5 +3,5 @@
 module.exports = packageB;
 
 function packageB() {
-    return 'package-b';
+    return 'package-b-2';
 }

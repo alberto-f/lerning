@@ -1,6 +1,6 @@
 {
   "name": "lerna-ing-package-a",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "> TODO: description",
   "author": "Alberto Fernandez Reyes <albertofernandezreyes@gmail.com>",
   "homepage": "",
@@ -20,6 +20,6 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "lerna-ing-package-b": "1.0.0"
+    "lerna-ing-package-b": "2.0.0"
   }
 }

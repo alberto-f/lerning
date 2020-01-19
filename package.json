@@ -4,6 +4,8 @@
   "description": "Repository for demo how lerna works",
   "main": "index.js",
   "scripts": {
+    "bootstrap": "npm run clean && lerna bootstrap",
+    "clean": "lerna clean -y",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [

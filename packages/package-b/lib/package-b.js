@@ -3,5 +3,6 @@
 module.exports = packageB;
 
 function packageB() {
-    return 'package-b-2';
+  console.log('hello world');
+  return 'package-b-3';
 }
